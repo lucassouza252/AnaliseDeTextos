@@ -10,6 +10,7 @@ sobrenomesComuns = ['Santos', 'santos', 'Souza', 'souza', 'Oliveira', 'oliveira'
 nomesComuns = ['Lucas', 'lucas', 'joao', 'joão', 'Pedro', 'pedro', 'Maria', 'maria', 'Francisco', 'Francisca',
                'francisco', 'francisca', 'Jose', 'José', 'jose', 'josé', 'Zé', 'Ze', 'zé', 'ze']
 
+text = text.lower()
 
 def temChingamento(texto):
     for ching in chingamentos:
