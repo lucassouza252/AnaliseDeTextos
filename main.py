@@ -1,14 +1,12 @@
 text = input("Digite seu nome e uma frase: ")
 
 chingamentos = ['porra', 'porr', 'merds', 'merda', 'merd', 'puta que pariu', 'pqp', 'puts que pariu', 'puta q pariu',
-                'carai', 'caralho', 'caraio', 'desgraca', 'desgraça', 'disgraca', 'disgraça', 'Viado', 'viado',
-                'Puta', 'puta', 'Putona', 'putona', 'Putinha', 'putinha', 'Viadão', 'Viadao', 'viadão', 'viadao',
-                'Viadinho', 'viadinho', 'Caralho']
+                'carai', 'caralho', 'caraio', 'desgraca', 'desgraça', 'disgraca', 'disgraça', 'viado', 'puta', 'putona',
+                'putinha', 'viadão', 'viadao', 'viadinho']
 
-sobrenomesComuns = ['Santos', 'santos', 'Souza', 'souza', 'Oliveira', 'oliveira', 'Carvalho', 'carvalho']
+sobrenomesComuns = ['santos', 'souza', 'oliveira', 'carvalho']
 
-nomesComuns = ['Lucas', 'lucas', 'joao', 'joão', 'Pedro', 'pedro', 'Maria', 'maria', 'Francisco', 'Francisca',
-               'francisco', 'francisca', 'Jose', 'José', 'jose', 'josé', 'Zé', 'Ze', 'zé', 'ze']
+nomesComuns = ['lucas', 'joao', 'joão', 'pedro', 'maria', 'francisco', 'francisca', 'jose', 'josé', 'zé', 'ze']
 
 text = text.lower()
 
