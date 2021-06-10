@@ -1,5 +1,4 @@
-## Analise de Texto
+## Text Analysis
 
-<p>Programinha simples apenas para analisar algumas coisas em determinados textos.</p>
+<p>Simple program to parse some text and string in their corpus</p>
 
-#### Aprimorar com o tempo
